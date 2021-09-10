@@ -8,4 +8,5 @@ fun main(){
     }
     else{
         println("Não há temperaturas negativas")
+    }
 }

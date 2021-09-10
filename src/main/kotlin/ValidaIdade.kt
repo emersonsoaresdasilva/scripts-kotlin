@@ -7,7 +7,7 @@ fun main(){
     else if (idade >= 14 && idade <= 17){
         println("Adolescente")
     }
-    else if (idade<14){
+    else if (idade < 14){
         println("Criança")
     }
 }
